@@ -1,8 +1,8 @@
-#include <iostream>
+#include "Algorithms_BubbleSort.h"
 
 
 int main ()
 {
-	std::cout << "\n\tTest!\n";
+	testBubbleSort();
 	return 0;
 }
