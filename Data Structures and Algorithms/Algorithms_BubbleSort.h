@@ -1,5 +1,5 @@
 /*
-	Bubble Sort
+	Bubble Sort - Interface
 */
 
 #pragma once
