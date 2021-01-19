@@ -10,3 +10,10 @@ This is a personal project used to store the most fundamental data structures an
 - Bubble Sort
 - Insertion Sort
 - Heap Sort
+- Merge Sort
+
+### Algorithms to be Added
+
+- Quicksort
+- Counting Sort
+- Bucket Sort

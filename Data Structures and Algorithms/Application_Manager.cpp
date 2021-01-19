@@ -6,6 +6,7 @@
 #include "Algorithms_BubbleSort.h"
 #include "Algorithms_InsertionSort.h"
 #include "Algorithms_HeapSort.h"
+#include "Algorithms_MergeSort.h"
 
 
 int main ()
@@ -14,6 +15,7 @@ int main ()
 	testBubbleSort();
 	testInsertionSort();
 	testHeapSort();
+	testMergeSort();
 
 	return 0;
 }
