@@ -1,0 +1,9 @@
+# Folders to Ignore
+.vs/
+Debug/
+
+# Files to Ignore
+*.sln
+*.vcxproj
+*.filters
+*.user
