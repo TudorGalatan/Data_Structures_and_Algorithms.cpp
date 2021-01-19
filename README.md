@@ -6,5 +6,6 @@ This is a personal project used to store the most fundamental data structures an
 
 ### Sorting Algorithms
 
+- Selection Sort
 - Bubble Sort
 - Insertion Sort
