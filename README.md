@@ -9,3 +9,4 @@ This is a personal project used to store the most fundamental data structures an
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
+- Heap Sort
