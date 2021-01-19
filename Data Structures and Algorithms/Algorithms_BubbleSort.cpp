@@ -47,7 +47,7 @@ void testBubbleSort ()
 		if (numbers[index] != sortedNumbers[index])
 			correctResult = false;
 
-	std::cout << "\n\tThe algorithm ";
+	std::cout << "\n\tThe Bubble Sort algorithm ";
 	if (correctResult)
 		std::cout << "works";
 	else

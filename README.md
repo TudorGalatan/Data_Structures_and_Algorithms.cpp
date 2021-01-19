@@ -7,3 +7,4 @@ This is a personal project used to store the most fundamental data structures an
 ### Sorting Algorithms
 
 - Bubble Sort
+- Insertion Sort

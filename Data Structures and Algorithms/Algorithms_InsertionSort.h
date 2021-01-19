@@ -1,5 +1,5 @@
 /*
-	Bubble Sort - Interface
+	Insertion Sort - Interface
 */
 
 #pragma once
@@ -8,7 +8,7 @@
 
 
 /*
-	Sorts a given array of numbers using the Bubble Sort algorithm.
+	Sorts a given array of numbers using the Insertion Sort algorithm.
 	Input:
 		- "numbers": the array of numbers
 		- "size": the size of the array of numbers
@@ -16,14 +16,14 @@
 		- "numbers": the updated (sorted) array of numbers
 	Running Time: O(n^2)
 */
-void bubbleSort (int numbers[], unsigned int size);
+void insertionSort (int numbers[], unsigned int size);
 
 
 /*
-	Tests the "bubbleSort" function.
+	Tests the "insertionSort" function.
 	Input:
 		- none
 	Output:
 		- a message specifying if the algorithm works correctly or not
 */
-void testBubbleSort ();
+void testInsertionSort ();
