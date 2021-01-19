@@ -7,6 +7,7 @@ This is a personal project used to store the most fundamental data structures an
 ### Searching Algorithms
 
 - Linear Search
+- Binary Search
 
 ### Sorting Algorithms
 
@@ -21,4 +22,3 @@ This is a personal project used to store the most fundamental data structures an
 - Quicksort
 - Counting Sort
 - Bucket Sort
-- Binary Search

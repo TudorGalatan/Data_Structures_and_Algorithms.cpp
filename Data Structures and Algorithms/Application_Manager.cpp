@@ -3,6 +3,7 @@
 */
 
 #include "Algorithms_LinearSearch.h"
+#include "Algorithms_BinarySearch.h"
 #include "Algorithms_SelectionSort.h"
 #include "Algorithms_BubbleSort.h"
 #include "Algorithms_InsertionSort.h"
@@ -13,6 +14,7 @@
 int main ()
 {
 	testLinearSearch();
+	testBinarySearch();
 	testSelectionSort();
 	testBubbleSort();
 	testInsertionSort();
