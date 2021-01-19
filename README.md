@@ -4,6 +4,10 @@ This is a personal project used to store the most fundamental data structures an
 
 ## Algorithms
 
+### Searching Algorithms
+
+- Linear Search
+
 ### Sorting Algorithms
 
 - Selection Sort
@@ -12,8 +16,9 @@ This is a personal project used to store the most fundamental data structures an
 - Heap Sort
 - Merge Sort
 
-### Algorithms to be Added
+### Algorithms to Add
 
 - Quicksort
 - Counting Sort
 - Bucket Sort
+- Binary Search
