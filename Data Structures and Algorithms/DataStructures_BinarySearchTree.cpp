@@ -25,8 +25,16 @@ void BinarySearchTree::insertNode (unsigned int data)
 {
 	if (this->rootNode == nullptr)
 		this->rootNode = this->createNewNode(data);
+
 	else if (data <= this->rootNode->data)
 		this->rootNode->leftSubtree = this->createNewNode(data);
+
 	else
 		this->rootNode->rightSubtree = this->createNewNode(data);
+}
+
+
+void BinarySearchTree::deleteNode (unsigned int data)
+{
+
 }

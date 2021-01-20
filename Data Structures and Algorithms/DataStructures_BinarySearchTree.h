@@ -45,4 +45,13 @@ class BinarySearchTree
 				- the new node is added to the binary search tree
 		*/
 		void insertNode (unsigned int data);
+
+		/*
+			Deletes a node from the binary search tree.
+			Input:
+				- "data": the data of the new node
+			Output:
+				- the new node is added to the binary search tree
+		*/
+		void deleteNode (unsigned int data);
 };
