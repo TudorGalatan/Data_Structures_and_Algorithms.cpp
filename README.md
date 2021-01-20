@@ -2,6 +2,10 @@
 
 This is a personal project used to store the most fundamental data structures and algorithms, implemented by me in C++.
 
+## Data Structures
+
+- Binary Search Tree (BST)
+
 ## Algorithms
 
 ### Searching Algorithms
