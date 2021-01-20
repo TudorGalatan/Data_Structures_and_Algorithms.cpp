@@ -5,11 +5,11 @@
 #pragma once
 
 
-struct Node
+struct BstNode
 {
 	unsigned int data;
-	Node* leftSubtree;
-	Node* rightSubtree;
+	BstNode* leftSubtree;
+	BstNode* rightSubtree;
 };
 
 
@@ -17,7 +17,7 @@ class BinarySearchTree
 {
 	private:
 
-		Node* rootNode;
+		BstNode* rootNode;
 
 		/*
 			This is the default constructor of the class.
@@ -35,7 +35,7 @@ class BinarySearchTree
 			Output:
 				- a new node is created
 		*/
-		Node* createNewNode (unsigned int data);
+		BstNode* createNewNode (unsigned int data);
 
 		/*
 			Inserts a new node into the binary search tree.

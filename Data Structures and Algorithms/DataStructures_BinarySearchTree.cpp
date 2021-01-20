@@ -11,9 +11,9 @@ BinarySearchTree::BinarySearchTree ()
 }
 
 
-Node* BinarySearchTree::createNewNode (unsigned int data)
+BstNode* BinarySearchTree::createNewNode (unsigned int data)
 {
-	Node* newNode = new Node();
+	BstNode* newNode = new BstNode();
 	newNode->data = data;
 	newNode->leftSubtree = nullptr;
 	newNode->rightSubtree = nullptr;

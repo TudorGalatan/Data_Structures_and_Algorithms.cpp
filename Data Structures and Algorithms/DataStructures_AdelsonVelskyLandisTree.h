@@ -8,6 +8,7 @@
 struct AvlNode
 {
 	unsigned int data;
+	unsigned short int height;
 	AvlNode* leftSubtree;
 	AvlNode* rightSubtree;
 };
@@ -15,7 +16,7 @@ struct AvlNode
 
 class AdelsonVelskyLandisTree
 {
-	private:
+	public:
 
 		AvlNode* rootNode;
 
@@ -27,4 +28,12 @@ class AdelsonVelskyLandisTree
 				- the class instance is initialized
 		*/
 		AdelsonVelskyLandisTree ();
+
+		unsigned short int getHeight (AvlNode* tree);
+
+		int getBalance (AvlNode* tree);
+
+		AvlNode* createNewNode (unsigned int data);
+
+		void insertNode (unsigned int data);
 };
