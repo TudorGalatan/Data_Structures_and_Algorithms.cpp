@@ -27,7 +27,15 @@ class UndirectedGraph
 
 		void insertVertex ();
 
+		void removeVertex (unsigned int vertex);
+
 		void insertEdge (unsigned int firstNode, unsigned int secondNode);
 
+		void removeEdge (unsigned int firstNode, unsigned int secondNode);
+
 		void depthFirstSearch (unsigned int startNode);
+
+		unsigned int connectedComponents ();
+
+		void recursiveDfsForConnectedComponents (bool visitedVertices[], unsigned int vertex);
 };
