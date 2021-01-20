@@ -2,6 +2,7 @@
 	This is the starting point of the application.
 */
 
+#include "DataStructures_UndirectedGraph.h"
 #include "DataStructures_BinarySearchTree.h"
 #include "DataStructures_AdelsonVelskyLandisTree.h"
 #include "Algorithms_LinearSearch.h"

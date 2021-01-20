@@ -4,6 +4,7 @@ This is a personal project used to store the most fundamental data structures an
 
 ## Data Structures
 
+- Undirected Graph
 - Binary Search Tree (BST)
 - Adelson-Velsky and Landis (AVL) Tree
 
