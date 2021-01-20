@@ -3,6 +3,7 @@
 */
 
 #include "DataStructures_BinarySearchTree.h"
+#include "DataStructures_AdelsonVelskyLandisTree.h"
 #include "Algorithms_LinearSearch.h"
 #include "Algorithms_BinarySearch.h"
 #include "Algorithms_SelectionSort.h"
