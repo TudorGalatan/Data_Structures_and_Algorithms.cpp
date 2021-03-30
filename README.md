@@ -28,3 +28,7 @@ This is a personal project used to store the most fundamental data structures an
 - Quicksort
 - Counting Sort
 - Bucket Sort
+- Minimax Algorithm
+- Midpoint Circle Algorithm
+- Bresenham's Line Algorithm
+- Flood Fill Algorithm
